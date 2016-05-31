@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Anasayfa
+  url: /
+
+- title: Gündelik Yazılarım
+  url: /articles/
+
+- title: Teknik Yazılarım
+  url: /blog/
+
+- title: Hakkımda
+  url: /about/
+
+- title: Ara
+  url: /search/
