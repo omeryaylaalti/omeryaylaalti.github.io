@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-06-04T15:20:40-04:00
+date: 2016-06-04T08:25:40-04:00
 ---
 
 ## Giriş
