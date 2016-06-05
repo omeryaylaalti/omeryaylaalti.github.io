@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-06-06T18:25:40-04:00
+date: 2016-06-05T18:25:40-04:00
 ---
 
 ## Tanım
