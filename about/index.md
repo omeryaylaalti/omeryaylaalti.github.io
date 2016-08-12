@@ -8,7 +8,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 **Merhabalar**,
 
-1993 İstanbul - Üsküdar doğumluyum. Liseyi Habire Yahşi Anadolu Lisesinde(2008-2012) tamamladım.Üniversiteyi Ondokuz Mayıs Üniversitesi - **Bilgisayar Mühendisliği**(2012-2016) bölümünde tamamlamak üzereyim.
+1993 İstanbul - Üsküdar doğumluyum. Liseyi Habire Yahşi Anadolu Lisesinde(2008-2012) tamamladım.Üniversiteyi Ondokuz Mayıs Üniversitesi - **Bilgisayar Mühendisliği**(2012-2016) bölümünde tamamladım.
 
 Ondokuz Mayıs Üniversitesi ile Yapıkredİ Bankası arasında imzalanan işbirliği protokolü gereği her sene Yapıkredi bünyesine alınan 5-7 öğrenciden biri olmaya hak kazandım.
 2014 yılı yaz stajımı Yapıkredi Bankacılık Üssü / AR-GE ve Özel Projeler bölümünde , 2015 yılı yaz stajımı ise Yapıkredi Bankacılık Üssü / Sigorta İşlemleri Yazılım Geliştirme bölümünde tamamladım.
